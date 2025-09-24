@@ -1,0 +1,2 @@
+# omd
+AAA python hw
